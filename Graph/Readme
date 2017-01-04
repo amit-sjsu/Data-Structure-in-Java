@@ -1,7 +1,7 @@
-#Graph
+Graph
 
-## DFS and BFS
+DFS and BFS
 
 The code contains Depth first search and Breadth first search of set of nodes (A,B,C,D,E,F,G,H,S).
-Below is the graph used for code.
+
 
